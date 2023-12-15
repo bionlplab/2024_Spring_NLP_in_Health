@@ -1,5 +1,5 @@
 ## HINF 5016 Natural Language Processing in Health
 
-**Spring, 2023**
+**Spring, 2024**
 
-https://bionlplab.github.io/2023_Spring_NLP_in_Health/
+https://bionlplab.github.io/2024_Spring_NLP_in_Health/

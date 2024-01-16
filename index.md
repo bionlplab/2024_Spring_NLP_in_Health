@@ -1,6 +1,6 @@
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
 **TA**: TBD<br>
-**Office Hours**: 4:00-5:00 pm on Mondays by appointment (Location: Zoom)<br>
+**Office Hours**: 3:00-4:00 pm on Tuesdays by appointment (Location: Zoom)<br>
 **Grading**: Letter grade
 
 ### Course Aims and Outcomes
